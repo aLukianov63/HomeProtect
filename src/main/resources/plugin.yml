@@ -1,0 +1,9 @@
+name: HomeProtect
+version: '${project.version}'
+main: net.zxcreaper.homeprotect.HomeProtect
+api-version: 1.19
+
+commands:
+  homeprotect:
+    aliases:
+      - hp

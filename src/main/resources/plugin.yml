@@ -1,6 +1,6 @@
 name: HomeProtect
 version: '${project.version}'
-main: net.zxcreaper.homeprotect.HomeProtect
+main: net.alukianov.homeprotect.HomeProtect
 api-version: 1.19
 
 commands:

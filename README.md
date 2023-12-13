@@ -54,6 +54,6 @@ We welcome contributions! If you'd like to contribute to HomeProtect, please fol
 
 ## License
 
-This project is licensed under the [Your License Name] - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT - see the [LICENSE](LICENSE) file for details.
 
 

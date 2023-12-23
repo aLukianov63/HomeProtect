@@ -1,5 +1,3 @@
-![](examples/header.jpg)
-
 # HomeProtect
 
 🚀 Welcome to HomeProtect - A minecraft server territory protection plugin!
